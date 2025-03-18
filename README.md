@@ -20,7 +20,7 @@ Eu sou um futuro desenvolvedor full-stack... e essa é apenas a primeira fase do
 
 
 
-## Github status
+## 💻 Github status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavojgalvao&theme=transparent&bg_color=140b00&border_color=ff9100&show_icons=true&icon_color=ff9100&title_color=ff9100&text_color=fff&hide_title=true&hide=stars)
 
