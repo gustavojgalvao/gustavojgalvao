@@ -14,9 +14,9 @@ Eu sou um futuro desenvolvedor full-stack... e essa é apenas a primeira fase do
 
 ## 🔗 Links
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=todoist&logoColor=white)](https://gustavogalvao-portifolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=ff9100)](https://github.com/gustavojgalvao) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=ff9100)](https://www.linkedin.com/in/gustavo-galvão-6443b9320/)
-
 
 
 
