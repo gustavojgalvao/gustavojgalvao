@@ -3,7 +3,7 @@
 
 Venha conhecer um pouco dos meus trabalhos.
 ## 🚀 Sobre mim
-Sou Gustavo Galvão, estudante de Ciência da Computação e apaixonado por tecnologia, desenvolvimento de software e design. Minha jornada profissional une habilidades em desenvolvimento web (HTML, CSS, JavaScript), design gráfico, marketing digital e muito mais, sempre focado em criar soluções inovadoras e impactantes.
+Sou Gustavo Galvão, estudante de Ciência da Computação e apaixonado por tecnologia, desenvolvimento de software e design. Minha jornada profissional une habilidades em desenvolvimento web (HTML, CSS, JavaScript), desenvolvimento de softwares (C, Java, NodeJS), design gráfico, marketing digital e muito mais, sempre focado em criar soluções inovadoras e impactantes.
 
 Atualmente, estou aprofundando meus conhecimentos em JavaScript e tecnologias back-end, expandindo minha experiência em front-end para me tornar um desenvolvedor full-stack completo. Além disso, tenho experiência como Social Media, gerenciando marcas e otimizando conteúdos para o crescimento digital.
 
