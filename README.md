@@ -33,4 +33,3 @@ Eu sou um futuro desenvolvedor full-stack... e essa é apenas a primeira fase do
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavojgalvao&layout=compact&bg_color=100000&border_color=ff9100&title_color=ff9100&text_color=FFF)
