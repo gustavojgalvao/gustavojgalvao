@@ -26,8 +26,6 @@ Sou **Gustavo Galvão**, estudante de **Ciência da Computação** apaixonado pe
 
 ## 🛠️ Tech Stack & Ferramentas
 
-Organizei minhas habilidades para facilitar a visualização do meu conjunto de ferramentas:
-
 <div align="center">
 
 ### 💻 Desenvolvimento
@@ -70,7 +68,5 @@ Organizei minhas habilidades para facilitar a visualização do meu conjunto de 
   <a href="https://gustavogalvao-portifolio.vercel.app">
     <img src="https://img.shields.io/badge/Visite%20meu%20Portfólio-Click%20Aqui-20C20E?style=for-the-badge" alt="Portfolio Badge">
   </a>
-  <br/><br/>
-  <img src="https://visitcount.itsvg.in/api?id=gustavojgalvao&icon=5&color=7" />
 </div>
 
